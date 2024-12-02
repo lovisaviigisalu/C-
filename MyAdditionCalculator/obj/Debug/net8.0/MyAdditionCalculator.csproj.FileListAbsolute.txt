@@ -1,0 +1,14 @@
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.deps.json
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.runtimeconfig.json
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.dll
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/bin/Debug/net8.0/MyAdditionCalculator.pdb
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.AssemblyInfoInputs.cache
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.AssemblyInfo.cs
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.csproj.CoreCompileInputs.cache
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.dll
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/refint/MyAdditionCalculator.dll
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.pdb
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/MyAdditionCalculator.genruntimeconfig.cache
+/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/Debug/net8.0/ref/MyAdditionCalculator.dll
