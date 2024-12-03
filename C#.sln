@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleCalculator", "LittleC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicApp", "LogicApp\LogicApp.csproj", "{CD7A503D-2F42-4F69-BA41-F1CF2D7A2F1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp", "QuizApp\QuizApp.csproj", "{D2AD4E5F-C0D1-4856-A046-0E2C4DCECAB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CD7A503D-2F42-4F69-BA41-F1CF2D7A2F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD7A503D-2F42-4F69-BA41-F1CF2D7A2F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD7A503D-2F42-4F69-BA41-F1CF2D7A2F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2AD4E5F-C0D1-4856-A046-0E2C4DCECAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AD4E5F-C0D1-4856-A046-0E2C4DCECAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AD4E5F-C0D1-4856-A046-0E2C4DCECAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AD4E5F-C0D1-4856-A046-0E2C4DCECAB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
