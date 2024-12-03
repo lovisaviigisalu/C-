@@ -19,7 +19,7 @@ myNumber2 = double.Parse(userInput2);
 double sum = myNumber + myNumber2;
 
 // rounding the sum to two decimal places
-sum = Math.Round(sum, 2); 
+sum = Math.Round(sum, 2);
 
 //printing the sum to the console
 Console.WriteLine($"You entered: {userInput} and {userInput2}. The sum is: {sum} ");
