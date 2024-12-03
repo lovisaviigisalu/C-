@@ -2,21 +2,24 @@
 Console.WriteLine("Hi! Let's calculate the sum of two numbers!");
 
 //datatype variable name = value
-int myNumber = 0;
-int myNumber2 = 0;
+double myNumber = 0.0;
+double myNumber2 = 0;
 
-//taking the first user input and converting it to an integer
-Console.WriteLine("Enter the first (whole) number!");
+//taking the first user input and converting it to an double
+Console.WriteLine("Enter the first number!");
 string userInput = Console.ReadLine();
-myNumber = int.Parse(userInput);
+myNumber = double.Parse(userInput);
 
-//taking the second user input and converting it to an integer
-Console.WriteLine("Enter the second (whole) number!");
+//taking the second user input and converting it to an double
+Console.WriteLine("Enter the second number!");
 string userInput2 = Console.ReadLine();
-myNumber2 = int.Parse(userInput2);
+myNumber2 = double.Parse(userInput2);
 
 //calculating the sum and storing it in a variable
-int sum = myNumber + myNumber2;
+double sum = myNumber + myNumber2;
+
+// rounding the sum to two decimal places
+sum = Math.Round(sum, 2); 
 
 //printing the sum to the console
 Console.WriteLine($"You entered: {userInput} and {userInput2}. The sum is: {sum} ");
