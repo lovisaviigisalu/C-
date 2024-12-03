@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Give me a number:");
+﻿//creating an instance of the Random class
+Random random = new Random();
+int randomNumber = random.Next(1, 11); // generates a random number between 1 and 10
+
+Console.WriteLine("Guess the number:");
 string input = Console.ReadLine();
 int number;
 
@@ -6,7 +10,13 @@ bool isNumber = int.TryParse(input, out number);
 
 if (isNumber)
 {
-    Console.WriteLine($"The number is {number}");
+    if (number == randomNumber)
+    {
+        Console.WriteLine("Congratulations! You guessed the correct number.");
+    }
+    else{
+    Console.WriteLine($"You guessed wrong! The correct number was {randomNumber}.");
+    }
 }
 else
 {
