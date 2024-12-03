@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/MyAdditionCalculator.csproj",
+      "projectUniqueName": "/Users/leenalovisa/Desktop/CSharpLearning/MyAdditionCalculator/MyAdditionCalculator.csproj",
       "projectName": "MyAdditionCalculator",
-      "projectPath": "/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/MyAdditionCalculator.csproj",
+      "projectPath": "/Users/leenalovisa/Desktop/CSharpLearning/MyAdditionCalculator/MyAdditionCalculator.csproj",
       "packagesPath": "/Users/leenalovisa/.nuget/packages/",
-      "outputPath": "/Users/leenalovisa/Desktop/C#/MyAdditionCalculator/obj/",
+      "outputPath": "/Users/leenalovisa/Desktop/CSharpLearning/MyAdditionCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leenalovisa/.nuget/NuGet/NuGet.Config"

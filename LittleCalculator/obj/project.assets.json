@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leenalovisa/Desktop/C#/LittleCalculator/LittleCalculator.csproj",
+      "projectUniqueName": "/Users/leenalovisa/Desktop/CSharpLearning/LittleCalculator/LittleCalculator.csproj",
       "projectName": "LittleCalculator",
-      "projectPath": "/Users/leenalovisa/Desktop/C#/LittleCalculator/LittleCalculator.csproj",
+      "projectPath": "/Users/leenalovisa/Desktop/CSharpLearning/LittleCalculator/LittleCalculator.csproj",
       "packagesPath": "/Users/leenalovisa/.nuget/packages/",
-      "outputPath": "/Users/leenalovisa/Desktop/C#/LittleCalculator/obj/",
+      "outputPath": "/Users/leenalovisa/Desktop/CSharpLearning/LittleCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leenalovisa/.nuget/NuGet/NuGet.Config"

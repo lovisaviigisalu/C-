@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leenalovisa/Desktop/C#/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/leenalovisa/Desktop/CSharpLearning/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/leenalovisa/Desktop/C#/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/leenalovisa/Desktop/CSharpLearning/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/leenalovisa/.nuget/packages/",
-      "outputPath": "/Users/leenalovisa/Desktop/C#/HelloWorld/obj/",
+      "outputPath": "/Users/leenalovisa/Desktop/CSharpLearning/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leenalovisa/.nuget/NuGet/NuGet.Config"
