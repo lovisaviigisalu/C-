@@ -19,5 +19,5 @@ myNumber2 = int.Parse(userInput2);
 int sum = myNumber + myNumber2;
 
 //printing the sum to the console
-Console.WriteLine("You entered: " + userInput + " and " + userInput2 + ". The sum is: " + sum);
+Console.WriteLine($"You entered: {userInput} and {userInput2}. The sum is: {sum} ");
 Console.ReadKey();
