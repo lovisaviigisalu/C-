@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp", "QuizApp\QuizApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOperators", "MoreOperators\MoreOperators.csproj", "{C81C3443-EBD8-44E0-B0E2-DE6730240B87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsBasics", "LoopsBasics\LoopsBasics.csproj", "{381FAB22-5201-4B57-8385-97800B2DF35E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C81C3443-EBD8-44E0-B0E2-DE6730240B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C81C3443-EBD8-44E0-B0E2-DE6730240B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C81C3443-EBD8-44E0-B0E2-DE6730240B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381FAB22-5201-4B57-8385-97800B2DF35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381FAB22-5201-4B57-8385-97800B2DF35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381FAB22-5201-4B57-8385-97800B2DF35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381FAB22-5201-4B57-8385-97800B2DF35E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
